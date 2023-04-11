@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "blog_image": "blog-1.jpg",
+        "doctor_image": "doctor-thumb-01.jpg",
+        "description": "AfyaYetu – Making your clinic painless visit?",
+        "description1": "Lorem ipsum dolor sit amet, consectetur em adipiscing elit, sed do eiusmod tempor.",
+        "date": "3 Dec 2021",
+        "name": "Urology"
+    },
+    {
+        "id": 2,
+        "blog_image": "blog-2.jpg",
+        "doctor_image": "doctor-thumb-01.jpg",
+        "description": "What are the benefits of Online Doctor Booking?",
+        "description1": "Lorem ipsum dolor sit amet, consectetur em adipiscing elit, sed do eiusmod tempor.",
+        "date": "3 Dec 2021",
+        "name": "Neurology"
+    },
+    {
+        "id": 3,
+       "blog_image": "blog-3.jpg",
+       "doctor_image": "doctor-thumb-01.jpg",
+        "description": "Benefits of consulting with an Online Doctor",
+        "description1": "Lorem ipsum dolor sit amet, consectetur em adipiscing elit, sed do eiusmod tempor.",
+        "date": "3 Dec 2021",
+        "name": "Orthopedic"
+    },
+    {
+        "id": 4,
+        "blog_image": "blog-4.jpg",
+        "doctor_image": "doctor-thumb-01.jpg",
+        "description": "5 Great reasons to use an Online Doctor",
+        "description1": "Lorem ipsum dolor sit amet, consectetur em adipiscing elit, sed do eiusmod tempor.",
+        "date": "3 Dec 2021",
+        "name": "Cardiologist"
+    }
+]
